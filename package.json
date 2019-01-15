@@ -1,0 +1,18 @@
+{
+  "name": "set-display-name",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "acorn": "^6.0.5",
+    "escodegen": "^1.11.0",
+    "escope": "^3.6.0",
+    "estraverse": "^4.2.0"
+  }
+}
